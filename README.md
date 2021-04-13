@@ -1,7 +1,7 @@
 AIatNCStateSpring2021WeedDetectionProject
 ==============================
 
-This Spring 2021 AI at NC State project repository contains all the code for the Weed Detection project. Utilizing images and other geospatial data, it [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D machine learning prototyping code for the Weed Detection project. Utilizing images and other geospatial data, it seeks to harness the power of applied AI models to sense where weeds are amongst g[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[C[D[D[D[D[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[distinguish weeds from [D[D[D[D[D[D endemic to North Carolina from the grasses occupying the terrain of the state as well as provide alternative productive uses for the weeds (foraging, etc).
+This Spring 2021 AI at NC State project repository contains all the code for the Weed Detection project. Utilizing images and other geospatial data, it contains all the machine learning prototyping code for the Weed Detection project. Utilizing images and other geospatial data, it seeks to harness the power of applied AI models to sense where weeds are amongst endemic to North Carolina from the grasses occupying the terrain of the state as well as provide alternative productive uses for the weeds (foraging, etc).
 
 Project Organization
 ------------
@@ -53,5 +53,3 @@ Project Organization
 
 
 --------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
